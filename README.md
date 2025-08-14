@@ -1,6 +1,6 @@
-*currently this project is inprogress.* 
+                                                  *currently this project is inprogress.* 
 
-**Devops Real time project :**
+                                                      **Devops Real time project :**
   
   **Pre-req :** 
   things we need to have before starting this project :
